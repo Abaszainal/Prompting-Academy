@@ -1,0 +1,4 @@
+.env
+state.json
+decisions.jsonl
+__pycache__/
